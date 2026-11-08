@@ -101,7 +101,8 @@ class UnitConverterApp(tk.Tk):
                  bg="white", fg="#0b6e4f", relief="groove", bd=2,
                  wraplength=360, height=3).pack(padx=25, fill="x", pady=5)
 
-        # Shuru mein sab khali rahega (category, from, to)
+        # Shuru mein sab khali rahega (category, from, to) 
+        # test coment for PR testing
 
     def update_units(self, event=None):
         """Category select karne par From/To list bharo."""
